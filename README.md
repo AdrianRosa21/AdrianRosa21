@@ -9,3 +9,5 @@ He trabajado de forma autónoma en proyectos de freelance, incluyendo el desarro
 
 Me destaco por mi capacidad de aprendizaje rápido, pensamiento lógico y orientación a resultados, buscando siempre soluciones eficientes e innovadoras para cada proyecto. Mi objetivo profesional es crecer en el ámbito del desarrollo de software, aportar valor a equipos dinámicos y participar en proyectos que representen un desafío tecnológico.
 
+Mi sitio web por si quieres hechar un vistazo:
+https://adrianrosa21.github.io/portfolio
